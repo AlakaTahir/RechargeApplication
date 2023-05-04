@@ -1,0 +1,286 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\HP\\Desktop\\Practice\\RechargeApplicaication\\Recharge.API\\Recharge.API.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\HP\\Desktop\\Practice\\RechargeApplicaication\\Recharge.API\\Recharge.API.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\HP\\Desktop\\Practice\\RechargeApplicaication\\Recharge.API\\Recharge.API.csproj",
+        "projectName": "Recharge.API",
+        "projectPath": "C:\\Users\\HP\\Desktop\\Practice\\RechargeApplicaication\\Recharge.API\\Recharge.API.csproj",
+        "packagesPath": "C:\\Users\\HP\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\HP\\Desktop\\Practice\\RechargeApplicaication\\Recharge.API\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\HP\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "targetAlias": "netcoreapp3.1",
+            "projectReferences": {
+              "C:\\Users\\HP\\Desktop\\Practice\\RechargeApplicaication\\Recharge.Migrations\\Recharge.Migrations.csproj": {
+                "projectPath": "C:\\Users\\HP\\Desktop\\Practice\\RechargeApplicaication\\Recharge.Migrations\\Recharge.Migrations.csproj"
+              },
+              "C:\\Users\\HP\\Desktop\\Practice\\RechargeApplicaication\\Recharge.Service\\Recharge.Service.csproj": {
+                "projectPath": "C:\\Users\\HP\\Desktop\\Practice\\RechargeApplicaication\\Recharge.Service\\Recharge.Service.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "targetAlias": "netcoreapp3.1",
+          "dependencies": {
+            "Microsoft.EntityFrameworkCore.Design": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[3.1.10, )"
+            },
+            "Microsoft.EntityFrameworkCore.UnitOfWork": {
+              "target": "Package",
+              "version": "[3.1.0, )"
+            },
+            "Pomelo.EntityFrameworkCore.MySql": {
+              "target": "Package",
+              "version": "[3.1.1, )"
+            },
+            "Swashbuckle.AspNetCore": {
+              "target": "Package",
+              "version": "[5.6.3, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.AspNetCore.App": {
+              "privateAssets": "none"
+            },
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.202\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\HP\\Desktop\\Practice\\RechargeApplicaication\\Recharge.Migrations\\Recharge.Migrations.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\HP\\Desktop\\Practice\\RechargeApplicaication\\Recharge.Migrations\\Recharge.Migrations.csproj",
+        "projectName": "Recharge.Migrations",
+        "projectPath": "C:\\Users\\HP\\Desktop\\Practice\\RechargeApplicaication\\Recharge.Migrations\\Recharge.Migrations.csproj",
+        "packagesPath": "C:\\Users\\HP\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\HP\\Desktop\\Practice\\RechargeApplicaication\\Recharge.Migrations\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\HP\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "targetAlias": "netcoreapp3.1",
+            "projectReferences": {
+              "C:\\Users\\HP\\Desktop\\Practice\\RechargeApplicaication\\Recharge.Model\\Recharge.Model.csproj": {
+                "projectPath": "C:\\Users\\HP\\Desktop\\Practice\\RechargeApplicaication\\Recharge.Model\\Recharge.Model.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "targetAlias": "netcoreapp3.1",
+          "dependencies": {
+            "Microsoft.EntityFrameworkCore.Design": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[3.1.10, )"
+            },
+            "Microsoft.EntityFrameworkCore.Tools": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[3.1.10, )"
+            },
+            "Pomelo.EntityFrameworkCore.MySql": {
+              "target": "Package",
+              "version": "[3.1.1, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.202\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\HP\\Desktop\\Practice\\RechargeApplicaication\\Recharge.Model\\Recharge.Model.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\HP\\Desktop\\Practice\\RechargeApplicaication\\Recharge.Model\\Recharge.Model.csproj",
+        "projectName": "Recharge.Model",
+        "projectPath": "C:\\Users\\HP\\Desktop\\Practice\\RechargeApplicaication\\Recharge.Model\\Recharge.Model.csproj",
+        "packagesPath": "C:\\Users\\HP\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\HP\\Desktop\\Practice\\RechargeApplicaication\\Recharge.Model\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\HP\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "targetAlias": "netcoreapp3.1",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "targetAlias": "netcoreapp3.1",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.202\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\HP\\Desktop\\Practice\\RechargeApplicaication\\Recharge.Service\\Recharge.Service.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\HP\\Desktop\\Practice\\RechargeApplicaication\\Recharge.Service\\Recharge.Service.csproj",
+        "projectName": "Recharge.Service",
+        "projectPath": "C:\\Users\\HP\\Desktop\\Practice\\RechargeApplicaication\\Recharge.Service\\Recharge.Service.csproj",
+        "packagesPath": "C:\\Users\\HP\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\HP\\Desktop\\Practice\\RechargeApplicaication\\Recharge.Service\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\HP\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "targetAlias": "netcoreapp3.1",
+            "projectReferences": {
+              "C:\\Users\\HP\\Desktop\\Practice\\RechargeApplicaication\\Recharge.Model\\Recharge.Model.csproj": {
+                "projectPath": "C:\\Users\\HP\\Desktop\\Practice\\RechargeApplicaication\\Recharge.Model\\Recharge.Model.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "targetAlias": "netcoreapp3.1",
+          "dependencies": {
+            "Microsoft.EntityFrameworkCore.UnitOfWork": {
+              "target": "Package",
+              "version": "[3.1.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.202\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

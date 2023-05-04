@@ -1,0 +1,13 @@
+C:\Users\HP\Desktop\Practice\RechargeApplicaication\Recharge.Service\bin\Debug\netcoreapp3.1\Recharge.Service.deps.json
+C:\Users\HP\Desktop\Practice\RechargeApplicaication\Recharge.Service\bin\Debug\netcoreapp3.1\Recharge.Service.dll
+C:\Users\HP\Desktop\Practice\RechargeApplicaication\Recharge.Service\bin\Debug\netcoreapp3.1\Recharge.Service.pdb
+C:\Users\HP\Desktop\Practice\RechargeApplicaication\Recharge.Service\bin\Debug\netcoreapp3.1\Recharge.Model.dll
+C:\Users\HP\Desktop\Practice\RechargeApplicaication\Recharge.Service\bin\Debug\netcoreapp3.1\Recharge.Model.pdb
+C:\Users\HP\Desktop\Practice\RechargeApplicaication\Recharge.Service\obj\Debug\netcoreapp3.1\Recharge.Service.csproj.AssemblyReference.cache
+C:\Users\HP\Desktop\Practice\RechargeApplicaication\Recharge.Service\obj\Debug\netcoreapp3.1\Recharge.Service.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HP\Desktop\Practice\RechargeApplicaication\Recharge.Service\obj\Debug\netcoreapp3.1\Recharge.Service.AssemblyInfoInputs.cache
+C:\Users\HP\Desktop\Practice\RechargeApplicaication\Recharge.Service\obj\Debug\netcoreapp3.1\Recharge.Service.AssemblyInfo.cs
+C:\Users\HP\Desktop\Practice\RechargeApplicaication\Recharge.Service\obj\Debug\netcoreapp3.1\Recharge.Service.csproj.CoreCompileInputs.cache
+C:\Users\HP\Desktop\Practice\RechargeApplicaication\Recharge.Service\obj\Debug\netcoreapp3.1\Recharge.Service.csproj.CopyComplete
+C:\Users\HP\Desktop\Practice\RechargeApplicaication\Recharge.Service\obj\Debug\netcoreapp3.1\Recharge.Service.dll
+C:\Users\HP\Desktop\Practice\RechargeApplicaication\Recharge.Service\obj\Debug\netcoreapp3.1\Recharge.Service.pdb

@@ -1,0 +1,16 @@
+C:\Users\HP\Desktop\Practice\RechargeApplicaication\Recharge.Migrations\bin\Debug\netcoreapp3.1\Recharge.Migrations.deps.json
+C:\Users\HP\Desktop\Practice\RechargeApplicaication\Recharge.Migrations\bin\Debug\netcoreapp3.1\Recharge.Migrations.runtimeconfig.json
+C:\Users\HP\Desktop\Practice\RechargeApplicaication\Recharge.Migrations\bin\Debug\netcoreapp3.1\Recharge.Migrations.runtimeconfig.dev.json
+C:\Users\HP\Desktop\Practice\RechargeApplicaication\Recharge.Migrations\bin\Debug\netcoreapp3.1\Recharge.Migrations.dll
+C:\Users\HP\Desktop\Practice\RechargeApplicaication\Recharge.Migrations\bin\Debug\netcoreapp3.1\Recharge.Migrations.pdb
+C:\Users\HP\Desktop\Practice\RechargeApplicaication\Recharge.Migrations\bin\Debug\netcoreapp3.1\Recharge.Model.dll
+C:\Users\HP\Desktop\Practice\RechargeApplicaication\Recharge.Migrations\bin\Debug\netcoreapp3.1\Recharge.Model.pdb
+C:\Users\HP\Desktop\Practice\RechargeApplicaication\Recharge.Migrations\obj\Debug\netcoreapp3.1\Recharge.Migrations.csproj.AssemblyReference.cache
+C:\Users\HP\Desktop\Practice\RechargeApplicaication\Recharge.Migrations\obj\Debug\netcoreapp3.1\Recharge.Migrations.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HP\Desktop\Practice\RechargeApplicaication\Recharge.Migrations\obj\Debug\netcoreapp3.1\Recharge.Migrations.AssemblyInfoInputs.cache
+C:\Users\HP\Desktop\Practice\RechargeApplicaication\Recharge.Migrations\obj\Debug\netcoreapp3.1\Recharge.Migrations.AssemblyInfo.cs
+C:\Users\HP\Desktop\Practice\RechargeApplicaication\Recharge.Migrations\obj\Debug\netcoreapp3.1\Recharge.Migrations.csproj.CoreCompileInputs.cache
+C:\Users\HP\Desktop\Practice\RechargeApplicaication\Recharge.Migrations\obj\Debug\netcoreapp3.1\Recharge.Migrations.csproj.CopyComplete
+C:\Users\HP\Desktop\Practice\RechargeApplicaication\Recharge.Migrations\obj\Debug\netcoreapp3.1\Recharge.Migrations.dll
+C:\Users\HP\Desktop\Practice\RechargeApplicaication\Recharge.Migrations\obj\Debug\netcoreapp3.1\Recharge.Migrations.pdb
+C:\Users\HP\Desktop\Practice\RechargeApplicaication\Recharge.Migrations\obj\Debug\netcoreapp3.1\Recharge.Migrations.genruntimeconfig.cache
