@@ -13,7 +13,7 @@ namespace Recharge.Migrations
         {
         }
 
-        public DbSet<UserInfo> CurrencyInfos { get; set; }
+        public DbSet<UserInfo> UserInfos { get; set; }
         public DbSet<UserBalance> UserBalances { get; set; }
         public DbSet<TransactionHistory>TransactionHistories { get; set; }
 
